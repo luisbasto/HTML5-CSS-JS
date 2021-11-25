@@ -1,0 +1,100 @@
+/* *{
+    font-style: italic;
+    margin: 100px;
+    padding: 50px;
+    border: radius 10px;
+}
+*/
+/*
+h1{
+    font-size:x-large;
+}
+
+h1, h2, h3 {
+    color: rgb(184, 141, 23);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bolder;
+}
+
+h2 {
+    font-size:large;
+}
+
+
+
+p span { color:red;}
+h1 span {color: blue;}
+p a span em { text-decoration:dashed}
+
+span {
+    color:cadetblue;
+}
+
+p * a {
+    color:brown;
+}
+
+p {
+    color: gray;
+    font-family: Verdana;
+    font-size: medium;
+}
+*/
+
+body{
+    margin: 10px;
+    padding: 20px;
+    border: dotted darkcyan ;
+    border-width: 30px;
+    background-color: #967979;
+    background-image: url("img/fondo.png");
+}
+
+span.main{
+    color:rgb(184, 141, 23);
+    font-size: x-large;
+}
+
+span .main{
+    color:blueviolet;
+    font-size: small;
+}
+
+.resaltar{
+    font-size:30px;
+    font-weight: bolder;
+}
+
+.principal{
+    font-size:15px;
+}
+
+.error{
+    color:red;
+}
+
+#navi{
+    color:chartreuse;
+}
+
+/*div {
+    border-style:outset;
+    border-top-width: 5px;
+    border-top-color: #CC0000;
+ }*/
+ 
+ div {
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-left: 1px solid red;
+  }
+
+div { border: 1px dashed red; }
+
+div { border-bottom: 5px blue; }
+
+/*div { border: 1px solid red; }*/
+
+
+  

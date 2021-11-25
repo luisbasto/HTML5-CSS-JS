@@ -1,0 +1,16 @@
+span > strong{
+    color:blue;
+}
+
+h2 + h3 {
+    color:coral;
+}
+
+h1 + h2 {
+    color:coral;
+}
+
+a[class="externo"]{
+    font-size: 20px;
+    color:brown; 
+}

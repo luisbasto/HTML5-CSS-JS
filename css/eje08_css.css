@@ -1,0 +1,22 @@
+img{
+    float: right;
+}
+
+#uno, #dos{
+    border: 1px solid;
+}
+
+#tres{
+    clear:right;
+}
+
+#ant {
+    float:left;
+}
+
+#sig {
+    float:right;
+}
+#pie{
+    width:80%;
+}

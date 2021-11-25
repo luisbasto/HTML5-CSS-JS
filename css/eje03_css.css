@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(0, 119, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+p {
+    color: gray;
+    font-family: Verdana;
+    font-size: medium;
+}
